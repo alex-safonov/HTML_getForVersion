@@ -1,7 +1,7 @@
 Подключение
-<link rel="stylesheet" type="text/css" href="/static/build/js/phone-check.js?<? echo time(); ?>">
+<script type="text/javascript" src="/static/build/js/phone-check.js?<? echo time(); ?>"></script>
 Отобразится как:
-<link rel="stylesheet" type="text/css" href="/static/build/js/phone-check.js?1656408103">
+<script type="text/javascript" src="/static/build/js/phone-check.js?1656410046"></script>
 
 
 Сборка в Битрикс:
